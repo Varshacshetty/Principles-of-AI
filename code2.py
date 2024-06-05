@@ -1,0 +1,14 @@
+a=10
+b=3
+add=a+b
+print(add)
+dif=a-b
+print(dif)
+mul=a*b
+print(mul)
+div=a/b
+print(div)
+integer_div=a//b
+print(integer_div)
+power=a**b
+print(power)
